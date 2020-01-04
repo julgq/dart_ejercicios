@@ -4,6 +4,7 @@ main() {
 
   // no se puede cambiar el valor, es las ligera en memoria, es mejorar usar final que const
   final double b = 10;
+ 
 
   // no se puede cambiar el valor, no cambia el valor despues de la inicializació
   const double c = 10;
